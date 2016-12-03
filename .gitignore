@@ -1,4 +1,5 @@
 #files to ignore
+banco/
 .htaccess.sample
 .modgit/
 .modman/
@@ -38,7 +39,7 @@ app/.htaccess
 dev/.htaccess
 dev/tests/functional/
 downloader/
-errors/
+#errors/
 #favicon.ico
 #/get.php
 #includes/
